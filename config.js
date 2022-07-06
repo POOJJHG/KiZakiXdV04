@@ -10,32 +10,32 @@ global.autoReadAll = true
 //Silahkan sesuaikan sendiri ya
 
 // Ganti Sewajarnya
-global.owner = ['6285878313791']
-global.pengguna = 'KiZakiXD'
-global.premium = []
-global.author = 'KiZakiXD'
-global.pemilik = ['6285878313791'] 
-global.ownernomer = '6285878313791'
-global.ownername = 'KiZakiXD'
-global.botname = 'Chitanda - MD'
+global.owner = ['17123505613']
+global.pengguna = 'IBNU-MD'
+global.premium = ['621807254833']
+global.author = 'OWNER IBNU'
+global.pemilik = ['6281807254833'] 
+global.ownernomer = '6281807254833'
+global.ownername = 'IBNU OFFICIAL '
+global.botname = 'IBNU - MD'
 global.tengah = "									"
 global.Prefix = 'Multi Prefix'
-global.meki = '6285878313791'
-global.footer = '𝘊 𝘩 𝘪 𝘵 𝘢 𝘯 𝘥 𝘢 - 𝘔 𝘋'
+global.meki = '6281807254833'
+global.footer = 'IBNU-MD'
 //Isi Sesuai Namalu Buat Tambah Tqtq
 global.namalu = 'Namalu' //Ubah nama kalian buat nambahin di tqtq bot
-global.footer1 = 'Jangan Spam Bot.'
+global.footer1 = 'Jangan Spam BOT.'
 global.footer2 = 'Jika Menemukan Bug Lapor Ke Owner.'
-global.yt = 'https://www.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
-global.ig = 'https://instagram.com/iamkizakixd'
-global.gc = 'https://chat.whatsapp.com/IJ5ull4HXaY647D6ACw4kj' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
-global.dana = '00000'
-global.gopay = '0000'
-global.wame = 'wa.me/6285878313791'
-global.email = 'helloiamkizakixd@gmail.com'
+global.yt = 'https://chat.whatsapp.com/G2SkpMM4ctNCIXSC28BV0D' //Jika tidak ada yt jangan diubah buat promosi owner xixixixi
+global.ig = 'https://chat.whatsapp.com/J7VtphVsCUXCMTnbLsRurn'
+global.gc = 'https://chat.whatsapp.com/G2SkpMM4ctNCIXSC28BV0D' //join ya kadang kadang pada eval bot disitu lumayan dapet fitur baru wkwkwk
+global.dana = '0881807254834'
+global.gopay = '081807254833'
+global.wame = 'wa.me/6281807254833'
+global.email = 'ibnu57a@gmail.com'
 global.region = 'Indonesia'
 global.link = 'nekopoi.care'
-global.sc = 'https://bit.ly/SubscribeFLOB'
+global.sc = 'https://chat.whatsapp.com/G2SkpMM4ctNCIXSC28BV0D'
 global.packname = '"{\nAuthor: KiZakiXD"\n"Bot Number: 6285848376737"\n"Bot Name: Chitanda - MD"\n"Instagram: @iamkizakixd"\n}' 
 global.author = '' 
 global.sessionName = 'session'
@@ -116,7 +116,7 @@ global.ccomannya = `
  » cekvote
  » hapusvote
 
-  「 *Owner Menu* 」
+  「 *OWMER Menu* 」
  » react [emoji]
  » chat [option]
  » join [link]
@@ -383,17 +383,17 @@ global.ccomannya = `
  » tafsirsurah
 
   「 *Voice Changer* 」
- » bass
- » blown
- » deep
- » earrape
- » fast
- » fat
- » nightcore
- » reverse
- » robot
- » slow
- » tupai
+ » bass (VN)
+ » blown (VN)
+ » deep (VN)
+ » earrape (VN)
+ » fast (VN)
+ » fat (VN)
+ » nightcore (VN)
+ » reverse (VN)
+ » robot (VN)
+ » slow (VN)
+ » tupai (VN
 `
 global.sewanya =
 '  *» List Sewabot :*\n   _• Sewa Bot 1 Minggu : 7K_\n   _• Sewa Bot 1 Bulan : 15K_\n   _• Sewa Bot 1 Tahun : 30K_'
